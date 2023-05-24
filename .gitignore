@@ -2,23 +2,8 @@
 #Template for AL projects for Dynamics 365 Business Central
 
 # Ignore all
-*
+*.lpi
+*.lps
+*/Exercises/1 Module/01. HelloWorld/backup
+*/Exercises/1 Module/01. HelloWorld/lib
 
-# Ignore all with extension 
-*.
-!*.md
-!*.lpr
-!.txt
-# Rules for dirs
-
-# Unignore dirs
-*/
-!./Exercises/1 Module
-# Ignore all files in dir
-*/*
-# Unignore all with extensions on dir
-!*/*.*
-# Ignore all with extension .o
-*/*.o
-*/*.lpi
-*/*.lps
