@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="/usr/bin/fpc" Date="1674086400"/>
-  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq &quot;-Fi/run/media/clara/Datos/Repo/Programacion-profesional-desde-cero-pascal-udemy/Exercises/1 Module/01. HelloWorld/lib/x86_64-linux&quot; &quot;-Fu/run/media/clara/Datos/Repo/Programacion-profesional-desde-cero-pascal-udemy/Exercises/1 Module/01. HelloWorld/&quot; &quot;-FU/run/media/clara/Datos/Repo/Programacion-profesional-desde-cero-pascal-udemy/Exercises/1 Module/01. HelloWorld/lib/x86_64-linux/&quot; &quot;-FE/run/media/clara/Datos/Repo/Programacion-profesional-desde-cero-pascal-udemy/Exercises/1 Module/01. HelloWorld/&quot; &quot;-o/run/media/clara/Datos/Repo/Programacion-profesional-desde-cero-pascal-udemy/Exercises/1 Module/01. HelloWorld/HelloWorld&quot; HelloWorld.lpr"/>
-</CONFIG>
