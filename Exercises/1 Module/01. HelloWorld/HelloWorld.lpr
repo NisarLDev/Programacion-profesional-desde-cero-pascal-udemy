@@ -1,7 +1,8 @@
 program HelloWorld;
 
 begin
-    write('Hello Wrold!');
+    writeln('Hello Wrold!');
+    write('Press enter to close programme');
     readln;
 end.
 
