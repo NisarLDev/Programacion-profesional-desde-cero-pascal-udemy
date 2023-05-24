@@ -1,0 +1,6 @@
+program HelloWorld;
+
+begin
+
+end.
+
