@@ -49,3 +49,4 @@ Exclusión de ficheros en un repositorio Git – Styde.net
 
 https://styde.net/exclusion-de-ficheros-en-un-repositorio-git/
 
+https://foro.elhacker.net/programacion_general/duda_de_novato_en_free_pascal-t306810.0.html
