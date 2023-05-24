@@ -1,3 +1,4 @@
+//First function on Pascal
 program HelloWorld;
 
 begin

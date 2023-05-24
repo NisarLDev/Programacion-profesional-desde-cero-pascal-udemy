@@ -4,18 +4,16 @@
 # Ignore all
 *
 
-# Unignore all with extensions
-!*.*
-
-# Ignore all with extension .o
-*.o
-*.lpi
-*.lps
-
+# Ignore all with extension 
+*.
+!*.md
+!*.lpr
+!.txt
 # Rules for dirs
 
 # Unignore dirs
-!*/
+*/
+!./Exercises/1 Module
 # Ignore all files in dir
 */*
 # Unignore all with extensions on dir

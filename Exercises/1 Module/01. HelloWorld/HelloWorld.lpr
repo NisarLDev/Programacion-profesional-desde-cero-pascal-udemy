@@ -1,4 +1,5 @@
 //First function on Pascal
+//Command line
 program HelloWorld;
 
 begin
