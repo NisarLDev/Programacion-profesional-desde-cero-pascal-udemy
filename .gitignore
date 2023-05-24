@@ -1,0 +1,26 @@
+### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Ignore all with extension .o
+*.o
+*.lpi
+*.lps
+
+# Rules for dirs
+
+# Unignore dirs
+!*/
+# Ignore all files in dir
+*/*
+# Unignore all with extensions on dir
+!*/*.*
+# Ignore all with extension .o
+*/*.o
+*/*.lpi
+*/*.lps
