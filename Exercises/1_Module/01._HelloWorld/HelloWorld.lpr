@@ -1,4 +1,4 @@
-//First function on Pascal
+//First function on FreePascal
 //Command line from Operating System
 program HelloWorld;
 

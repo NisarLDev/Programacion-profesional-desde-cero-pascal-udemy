@@ -1,9 +1,0 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-
-# Ignore all
-*.lpi
-*.lps
-*/Exercises/1 Module/01. HelloWorld/backup
-*/Exercises/1 Module/01. HelloWorld/lib
-
