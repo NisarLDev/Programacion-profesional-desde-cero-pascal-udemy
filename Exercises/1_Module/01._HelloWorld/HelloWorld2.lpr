@@ -3,8 +3,8 @@
 program Out;
 
 begin
-    writeln('Hello Wrold!');
-    writeln('This is the out of the programme. Press enter to close programme');
-    readln;
+    Writeln('Hello Wrold!');
+    Writeln('This is the out of the programme. Press enter to close programme');
+    Readln;
 end.
 
