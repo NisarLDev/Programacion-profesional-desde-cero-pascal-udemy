@@ -3,8 +3,8 @@
 program HelloWorld;
 
 begin
-    writeln('Hello Wrold!');
-    write('Press enter to close programme');
-    readln;
+    Writeln('Hello Wrold!');
+    Write('Press enter to close programme');
+    Readln;
 end.
 
