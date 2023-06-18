@@ -1,12 +1,20 @@
 program Enter;
 
-var name: string;
-    age: byte;
+var nombre: UnicodeString;
+    nombre_del_familiar: UnicodeString;
+    edad: byte;
+    edad_de_familiar: byte;
 begin
-    Write('Enter your name: ');
-    Readln(name);
-    Write('Hello '+name+'Your age is ');
-    Write(age);
-    Write('years.');
-    Readln;
-end.
+    Write('Escribe tu nombre: ');
+    Readln(nombre);
+    Write('Escribe tu edad: ');
+    Readln(edad);
+    Writeln('Hola '+nombre+' tu edad es: ', age, ' years.');
+    Write('Enter the name of a relative: ');
+    Readln(parent_name);
+    Write('Enter the age of '+parent_name+': ');
+    Readln(parent_age);
+    Writeln(name+' your age is: ', age,', '+'Your family member '+parent_name+' age is ', parent_age);
+    Write('Push enter to finish the programme ');
+    Readln();
+end.          
