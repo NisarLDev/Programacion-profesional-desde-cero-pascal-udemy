@@ -12,8 +12,6 @@ begin
     Readln(nombre);
     Write('Escribe tu edad: ');
     Readln(edad_cifra);
-    Write('Hola '+nombre+' tu edad es: ');
-    Write(edad_cifra);
-    Write(edad_con_letra_egne);
+    Write('Hola '+nombre+', tu edad es: ', edad_cifra, edad_con_letra_egne);
     Readln;
 end.
