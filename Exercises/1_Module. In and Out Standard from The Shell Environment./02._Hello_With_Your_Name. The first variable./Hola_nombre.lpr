@@ -6,13 +6,14 @@ var nombre: string;
     //Variable para la letra ñ
     edad_con_letra_egne: UnicodeString;
 begin
-    Write('Escribe tu nombre: ');
     //Variable para la letra ñ
     edad_con_letra_egne:=' años.';
+    Write('Escribe tu nombre: ');
     Readln(nombre);
-    Write('Hola '+nombre+' tu edad es: ');
+    Write('Escribe tu edad');
     Readln(edad_cifra);
+    Write('Hola '+nombre+' tu edad es: ');
     Write(edad_cifra);
     Write(edad_con_letra_egne);
     Readln;
-end.     
+end.
