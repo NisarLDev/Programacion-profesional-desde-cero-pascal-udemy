@@ -4,7 +4,7 @@ var name: string;
 
 begin
     Write('Enter your name: ');
-    Readln('I have also created a second Pascal text programme');
+    Readln(name);
     Write('Hello '+name);
     Readln;
 end.
