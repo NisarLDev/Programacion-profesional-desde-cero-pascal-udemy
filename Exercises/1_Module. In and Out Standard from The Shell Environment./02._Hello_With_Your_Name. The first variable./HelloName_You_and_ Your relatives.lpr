@@ -14,6 +14,7 @@ begin
     Readln(parent_name);
     Write('Enter the age of '+parent_name+': ');
     Readln(parent_age);
-    Writeln(name+' your age is: ', age,' ', 'Your family member, parent_name, 'age is', parent_age);
-    Readln;
-end.
+    Writeln(name+' your age is: ', age,', '+'Your family member '+parent_name+' age is ', parent_age);
+    Write('Push enter to finish the programme ');
+    Readln();
+end.          
