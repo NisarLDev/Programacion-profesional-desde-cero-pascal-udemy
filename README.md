@@ -92,4 +92,4 @@ https://www.aprendeaprogramar.com/mod/forum/discuss.php?d=2427
 Manejo_de_Cadenas.PDF - Manejo_de_Cadenas_en_TP.pdf
 http://www.lip.uns.edu.ar/pci/Manejo_de_Cadenas_en_TP.pdf
 
-
+https://wiki.freepascal.org/IDE_regular_expressions/es
