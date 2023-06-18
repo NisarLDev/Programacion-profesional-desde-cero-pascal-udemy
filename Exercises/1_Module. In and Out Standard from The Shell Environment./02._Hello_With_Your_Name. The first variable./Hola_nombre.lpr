@@ -10,7 +10,7 @@ begin
     edad_con_letra_egne:=' años.';
     Write('Escribe tu nombre: ');
     Readln(nombre);
-    Write('Escribe tu edad');
+    Write('Escribe tu edad ');
     Readln(edad_cifra);
     Write('Hola '+nombre+' tu edad es: ');
     Write(edad_cifra);
