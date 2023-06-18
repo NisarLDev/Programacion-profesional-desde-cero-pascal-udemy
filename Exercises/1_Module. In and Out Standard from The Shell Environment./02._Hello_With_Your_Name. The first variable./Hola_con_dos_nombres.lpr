@@ -4,6 +4,7 @@ var nombre: UnicodeString;
     nombre_del_familiar: UnicodeString;
     edad: byte;
     edad_de_familiar: byte;
+    edad_con_letra_egne: UnicodeString;
 begin
     Write('Escribe tu nombre: ');
     Readln(nombre);
